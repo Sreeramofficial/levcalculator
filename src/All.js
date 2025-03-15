@@ -31,7 +31,7 @@ function All() {
   useEffect(() => {
     if (rejected && againrejected && threerejected) {
       console.log("Navigating to /chat...");
-      window.location.replace("/chat");
+      window.location.replace("/levcalculator/chat");
       // Redirect to the Chat component
     }
 

@@ -7,7 +7,7 @@ import LovePage from "./LovePage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/levcalculator">
       <Routes>
         <Route path="/" element={<All />} /> {/* Define your Sree route */}
         <Route path="/sree" element={<Sree />} /> {/* Define your Sree route */}
