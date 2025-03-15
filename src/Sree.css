@@ -1,0 +1,29 @@
+.allstyle {
+  padding-top: 20px;
+}
+.secondCards {
+  margin-top: 20px;
+  visibility: hidden;
+}
+.first-button {
+  background-color: rgb(9, 255, 0);
+}
+.second-button {
+  background-color: rgb(255, 0, 0);
+} /* Default styling for second-button */
+
+/* Styling for second-button when accepted is true */
+.second-button.accepted {
+  background-color: #000000; /* New background color when accepted is true */
+  border: 1px solid #28a745;
+}
+.secondCards.notaccepted {
+  margin-top: 20px;
+  visibility: visible;
+}
+.showpercentage {
+  visibility: hidden;
+}
+.showpercentage.not {
+  visibility: visible;
+}
