@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/levcalculator/sree/static/css/main.37da86fb.css",
-    "main.js": "/levcalculator/sree/static/js/main.514d7cad.js",
-    "static/js/453.fe8e41e1.chunk.js": "/levcalculator/sree/static/js/453.fe8e41e1.chunk.js",
-    "index.html": "/levcalculator/sree/index.html",
-    "main.37da86fb.css.map": "/levcalculator/sree/static/css/main.37da86fb.css.map",
-    "main.514d7cad.js.map": "/levcalculator/sree/static/js/main.514d7cad.js.map",
-    "453.fe8e41e1.chunk.js.map": "/levcalculator/sree/static/js/453.fe8e41e1.chunk.js.map"
+    "main.css": "/levcalculator/static/css/main.37da86fb.css",
+    "main.js": "/levcalculator/static/js/main.489c254b.js",
+    "static/js/453.fe8e41e1.chunk.js": "/levcalculator/static/js/453.fe8e41e1.chunk.js",
+    "index.html": "/levcalculator/index.html",
+    "main.37da86fb.css.map": "/levcalculator/static/css/main.37da86fb.css.map",
+    "main.489c254b.js.map": "/levcalculator/static/js/main.489c254b.js.map",
+    "453.fe8e41e1.chunk.js.map": "/levcalculator/static/js/453.fe8e41e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37da86fb.css",
-    "static/js/main.514d7cad.js"
+    "static/js/main.489c254b.js"
   ]
 }
