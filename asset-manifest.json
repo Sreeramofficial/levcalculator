@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/levcalculator/static/css/main.37da86fb.css",
-    "main.js": "/levcalculator/static/js/main.00df91f4.js",
+    "main.js": "/levcalculator/static/js/main.c5bd6b09.js",
     "static/js/453.fe8e41e1.chunk.js": "/levcalculator/static/js/453.fe8e41e1.chunk.js",
     "index.html": "/levcalculator/index.html",
     "main.37da86fb.css.map": "/levcalculator/static/css/main.37da86fb.css.map",
-    "main.00df91f4.js.map": "/levcalculator/static/js/main.00df91f4.js.map",
+    "main.c5bd6b09.js.map": "/levcalculator/static/js/main.c5bd6b09.js.map",
     "453.fe8e41e1.chunk.js.map": "/levcalculator/static/js/453.fe8e41e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37da86fb.css",
-    "static/js/main.00df91f4.js"
+    "static/js/main.c5bd6b09.js"
   ]
 }
